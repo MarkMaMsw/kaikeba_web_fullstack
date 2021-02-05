@@ -1,3 +1,4 @@
+// 个人学习测试
 const fs = require('fs')
 const path = require('path')
 console.log(__dirname)
